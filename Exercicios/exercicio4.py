@@ -11,5 +11,5 @@ salarioLiquido= salarioTotal- (salarioTotal*0,11)
 
 print("O nome do funcionario é: ", nome)
 print("O salário fixo é: ", salarioFixo)
-print("O salário total foi de: ", salarioFixo+comissao)
+print("O salário total foi de: ", salarioTotal)
 print("O salário líquido foi de: ", salarioLiquido)
